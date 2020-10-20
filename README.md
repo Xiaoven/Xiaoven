@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Xiaoven Cheung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xiaoven&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaoven&layout=compact&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Xiaoven/Xiaoven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
